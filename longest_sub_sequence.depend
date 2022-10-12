@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665584831 source:/home/noutcheu/Tp Info 4017/longest_sub_sequence/main.cpp
+	<iostream>
+	<vector>
+
